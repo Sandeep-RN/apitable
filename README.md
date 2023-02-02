@@ -151,7 +151,7 @@ If you want to set up your local development environment, read our [🧑‍💻 
 
 APITable provides a range of amazing features, from the personal to the enterprise.
 
-- Advanced technology stack and open-source
+- Advanced technology stack and open-source:
   - `Realtime collaboration` allows multiple users to edit together in real time, or simultaneously with the `Operational Transformation (OT)` Algorithm.
   - Extremely smooth, user-friendly, super-fast database-spreadsheet interface in `<canvas> Rendering Engine`.
   - Database native architecture: Changeset / Operation / Action / Snapshot and so on.
@@ -159,14 +159,14 @@ APITable provides a range of amazing features, from the personal to the enterpri
   - Full-stack API access, from `Data` to `Metadata`.
   - One-direction / Bi-direction Table Link and `Infinite Cross Links`
   - Community-friendly programming languages and framework, TypeScript ([NextJS](https://nextjs.org/) + [NestJS](https://nestjs.com/)) and Java ([Spring Boot](https://spring.io/projects/spring-boot))
-- Beautiful and Rich Database-Spreadsheet UI
+- Beautiful and Rich Database-Spreadsheet UI:
   - `CRUD`: Create, Read, Update, Delete the Tables, Columns, and Rows
   - `Fields Operations`: sort, filter, grouping, hide/unhide, height setting.
   - `Space based`: Use separated workspaces in place of App/Base-based structure, make unlimited tables link together possible.
   - `Dark mode` and theme customization available.
   - `7 View Types`: Grid View (Datasheet) / Gallery View / Mindmap View / Kanban View / Full-Feature Gantt View / Calendar View
   - One-click API Panel
-- Batteries included
+- Batteries included:
   - Built-in 10+ official templates.
   - Robot Automation and customization available.
   - BI dashboard
@@ -180,7 +180,7 @@ APITable provides a range of amazing features, from the personal to the enterpri
   - Customizable Data Column Types
   - Customizable Formulas
   - Customizable Automation Robot Actions.
-- Enterprise-grade permissions
+- Enterprise-grade permissions:
   - `Mirror`, turn a View into a mirror to implement Row Permission.
   - Activate `Column Permission` through a very simple operation.
   - Folders / Sub-Folders / Files Permission.
@@ -201,7 +201,7 @@ With extensible widgets and plugins, you can add more features.
 
 Why you must know APITable for your next software?
 
-- As super management software
+- As super management software:
   - Flexible Project Management & Tasks / Issues Management.
   - Marketing Lead Management.
   - Most flexible and connectable CRM.
@@ -210,14 +210,14 @@ Why you must know APITable for your next software?
   - Flexible ERP.
   - Low-code and no-code platform.
   - ...and more, APITable puts 1000 softwares in your pocket.
-- As a visual database infrastructure
+- As a visual database infrastructure:
   - **Embed** APITable into your own software UIs.
   - Visual Database with REST API.
   - Admin dashboard.
   - Central configuration management.
   - All-in-one enterprise database that **connect all** your software.
   - ...and more, APITable connects everything.
-- Also, it is open source and extensible
+- Also, it is open source and extensible.
 
 ## 💞 API-oriented
 
